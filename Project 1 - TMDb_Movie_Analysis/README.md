@@ -48,7 +48,7 @@ The findings from this project provide valuable insights into the film industry,
 
 As part of my project evaluation, I completed a Specification Review, which confirms that all project requirements and expectations have been met. This review demonstrates my adherence to the guidelines and my understanding of data analysis concepts within the context of the TMDb Movie Analysis project.
 
-![Specification Review](Project 1 - TMDb_Movie_Analysis/Specification Review.png)
+![Specification Review](Specification%20Review.png)
 
 *The image above showcases the successful completion of the Specification Review for the TMDb Movie Analysis project, highlighting my proficiency in data analysis and project execution.*
 
