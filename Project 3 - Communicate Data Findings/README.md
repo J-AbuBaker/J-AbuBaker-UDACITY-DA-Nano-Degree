@@ -36,10 +36,13 @@ The dataset "product_sales" includes information about sales transactions and cu
 
 ## Requirements
 
-- **Python 3.x** and the following libraries:
-  - **pandas** for data manipulation
-  - **seaborn** and **matplotlib** for data visualization
-  - **numpy** for numerical operations
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- scikit-learn
+- Jupyter Notebook
 
 ## Recommendations
 
